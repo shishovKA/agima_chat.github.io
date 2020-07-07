@@ -1,0 +1,15 @@
+.message__user-icon {
+    width: 47px;
+    height: 47px;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    position: absolute;
+}
+
+
+.message__user-icon_left {
+    left: calc(-47px - 18px);
+}
+
+.message__user-icon_right {
+    right: calc(-47px - 18px);
+}

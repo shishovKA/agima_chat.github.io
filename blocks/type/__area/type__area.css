@@ -1,0 +1,21 @@
+.type__area {
+    width: 590px;
+    height: 129px;
+
+    resize: none;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+    padding: 10px;
+
+    margin-top: 20px;
+}

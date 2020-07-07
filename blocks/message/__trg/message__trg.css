@@ -1,0 +1,9 @@
+.message__trg_left {
+    position: absolute;
+    left: calc(-15px / 2);
+}
+
+.message__trg_right {
+    position: absolute;
+    right: calc(-15px / 2);
+}

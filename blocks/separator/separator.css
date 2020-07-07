@@ -1,0 +1,10 @@
+@import url(./__border/separator__border.css);
+@import url(./__date/separator__date.css);
+
+.separator {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}

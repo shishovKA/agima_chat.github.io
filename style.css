@@ -1,0 +1,20 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/window/window.css);
+
+@import url(./blocks/type/type.css);
+@import url(./blocks/chat/chat.css);
+
+@import url(./blocks/message/message.css);
+@import url(./blocks/separator/separator.css);
+
+.frame {
+  margin: 0 auto;
+  width: 980px;
+  height: 883px;
+  background: #FFFFFF;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

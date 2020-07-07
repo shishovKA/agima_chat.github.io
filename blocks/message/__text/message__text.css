@@ -1,0 +1,12 @@
+.message__text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    background: #F1F3F5;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0px;
+}

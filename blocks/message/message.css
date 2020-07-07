@@ -1,0 +1,18 @@
+@import url(./__text/message__text.css);
+@import url(./__user-icon/message__user-icon.css);
+@import url(./__trg/message__trg.css);
+
+
+.message {
+    width: 470px;
+    position: relative;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.message_my {
+    justify-content: flex-end;
+}

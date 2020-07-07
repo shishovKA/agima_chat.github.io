@@ -1,0 +1,18 @@
+.type__button {
+
+    width: 144px;
+    height: 41px;
+    background: #0F54B9;
+    box-shadow: 0px 4px 6px rgba(15, 84, 185, 0.3);
+    border-radius: 21px;
+
+    margin: 20px 0px 0px 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+
+    cursor: pointer;
+}
