@@ -9,12 +9,9 @@
 
 .frame {
   margin: 0 auto;
-  width: 980px;
-  height: 883px;
+  width: 100%;
+  min-width: 320px;
+  max-width: 768px;
   background: #FFFFFF;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
